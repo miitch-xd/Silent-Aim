@@ -113,7 +113,7 @@ if __name__ == "__main__":
             else: winsound.Beep(440, 75), winsound.Beep(200, 100)
             while keyboard.is_pressed(TRIGGER_KEY): pass
         if keyboard.is_pressed(BUNNY_KEY): 
-            bot.bunnyy()
+            bot.bunny()
             print_banner(bot)
             if bot._bunny: winsound.Beep(440, 75), winsound.Beep(700, 100)
             else: winsound.Beep(440, 75), winsound.Beep(200, 100)
