@@ -1,5 +1,5 @@
-# Valorant External Cheat
-**[UNDEDECTED]When you take your crosshair to the man, it shoots at the enemy in 6ms.**
+# Silent Aim v1.0
+**[UNDETECTED]When you take your crosshair to the man, it shoots at the enemy in 6ms.**
 ## Download and Using 
 ### I suggest
 - Install libraries with `pip install -U -r requirements.txt`
